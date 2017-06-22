@@ -1,5 +1,5 @@
 projectKey=org.sonarqube:gs-messaging-stomp-websocket-master
-serverUrl=http://localhost:9000
-dashboardUrl=http://localhost:9000/dashboard/index/org.sonarqube:gs-messaging-stomp-websocket-master
-ceTaskId=AVzFSGgrG3TWazUjSohh
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AVzFSGgrG3TWazUjSohh
+serverUrl=http://192.168.1.240:9000
+dashboardUrl=http://192.168.1.240:9000/dashboard/index/org.sonarqube:gs-messaging-stomp-websocket-master
+ceTaskId=AVzPpQ0qRQMIXgRWQiwS
+ceTaskUrl=http://192.168.1.240:9000/api/ce/task?id=AVzPpQ0qRQMIXgRWQiwS
